@@ -2,4 +2,4 @@
 
 - Insertion Sort
 - Merge Sort
-- - Kruskal's Algorithm
+- Kruskal's Algorithm
